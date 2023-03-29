@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DconvertImage_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/build/cmake/platforms.cmake",
+    "/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/vietnamcubesystem/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/vietnamcubesystem/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "convertImage-Debug-x86_64": {
+      "buildCommand": "/Users/vietnamcubesystem/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/x86_64\" convertImage",
+      "buildType": "debug",
+      "toolchain": "1523701668",
+      "abi": "x86_64",
+      "artifactName": "convertImage",
+      "files": [
+        {
+          "src": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/ios/Classes/converter.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/build/app/intermediates/cmake/debug/obj/x86_64/libconvertImage.so"
+    }
+  },
+  "toolchains": {
+    "1523701668": {
+      "cCompilerExecutable": "/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

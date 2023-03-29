@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/build/cmake/platforms.cmake",
+    "/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/vietnamcubesystem/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/vietnamcubesystem/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "convertImage-Debug-x86": {
+      "artifactName": "convertImage",
+      "buildCommand": "/Users/vietnamcubesystem/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/x86\" convertImage",
+      "abi": "x86",
+      "output": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/build/app/intermediates/cmake/debug/obj/x86/libconvertImage.so"
+    }
+  }
+}

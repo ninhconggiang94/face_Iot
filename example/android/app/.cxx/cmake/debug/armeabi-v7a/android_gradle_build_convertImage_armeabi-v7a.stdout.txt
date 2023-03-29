@@ -1,0 +1,9 @@
+ninja: Entering directory `/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/armeabi-v7a'
+[1/2] Building C object CMakeFiles/convertImage.dir/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/ios/Classes/converter.c.o
+FAILED: CMakeFiles/convertImage.dir/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/ios/Classes/converter.c.o 
+/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DconvertImage_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -MD -MT CMakeFiles/convertImage.dir/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/ios/Classes/converter.c.o -MF CMakeFiles/convertImage.dir/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/ios/Classes/converter.c.o.d -o CMakeFiles/convertImage.dir/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/ios/Classes/converter.c.o   -c /Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/ios/Classes/converter.c
+/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/ios/Classes/converter.c:2:10: fatal error: 'converter.h' file not found
+#include "converter.h"
+         ^~~~~~~~~~~~~
+1 error generated.
+ninja: build stopped: subcommand failed.

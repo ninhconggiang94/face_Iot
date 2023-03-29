@@ -1,0 +1,146 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/Users/vietnamcubesystem/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json due to:",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - /Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "keeping json folder \u0027/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/armeabi-v7a\u0027 but regenerating project",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/vietnamcubesystem/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_NDK\u003d/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/build/app/intermediates/cmake/debug/obj/armeabi-v7a\n-DCMAKE_MAKE_PROGRAM\u003d/Users/vietnamcubesystem/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-B/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android\",\n  \"buildDirectory\": \"/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/app/.cxx/cmake/debug/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003d/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/vietnamcubesystem/Library/Android/sdk/ndk/20.0.5594570\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/build/app/intermediates/cmake/debug/obj/armeabi-v7a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/vietnamcubesystem/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d21\"\n  ]\n}\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"You have called ADD_LIBRARY for library convertImage without any source files. This typically indicates a problem with your CMakeLists.txt file\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "You have called ADD_LIBRARY for library convertImage without any source files. This typically indicates a problem with your CMakeLists.txt file",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"CMake Error: CMake can not determine linker language for target: convertImage\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Users/vietnamcubesystem/Documents/IOT/flutter_tflite-master/example/android/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  }
+]
